@@ -20,7 +20,7 @@ class Program
             Console.WriteLine("You can see a PG 13 rated movie alone!");
         } else if ( num == 5 ) {
             Console.WriteLine("You can see a G rated movie alone!");
-        } else {
+        }else{
             Console.WriteLine("Uh. You are too young for most things!");
         }
         Console.WriteLine("\nDone.");
