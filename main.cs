@@ -14,7 +14,7 @@ class Program
         Console.ReadLine();
         Console.Write("Enter your age : ");
         num = Convert.ToInt32(Console.ReadLine());
-        if (num == 17) {
+        if (num == 17){
             Console.WriteLine("You can see an R rated movie alone!");
         } else if (num == 13) {
             Console.WriteLine("You can see a PG 13 rated movie alone!");
